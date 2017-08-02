@@ -1,5 +1,5 @@
 # demo
-demo 
+Training demo  
 ## Introduction 
 
 ## Deployment 

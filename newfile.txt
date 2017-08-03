@@ -1,4 +1,4 @@
-# New title for multiple stash example 
+# Changed title for tagging example 
 
 # This is a new file 
 ## back in master branch 

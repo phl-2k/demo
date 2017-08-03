@@ -38,4 +38,8 @@ Change #1
 # Merge Conflict 
 New Text Change #1 
 
+<<<<<<< Updated upstream
 # Emergency fix after stash 
+=======
+# Changes prior to stash 
+>>>>>>> Stashed changes

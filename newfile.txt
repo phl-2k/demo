@@ -1,5 +1,4 @@
 # This is a new file 
 ## back in master branch 
-
-# Adding changes in master branch 
-## more changes done in master after bigtrouble edits 
+# Added change in bigtrouble branch 
+## and deleted prior change done in master 

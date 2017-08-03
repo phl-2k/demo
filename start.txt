@@ -1,3 +1,7 @@
+# New Title
+## updated in master 
+## more changes after stash apply
+
 Test Git Quick Start Demo
 ## Copyright 
 All rights reserved  

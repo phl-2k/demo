@@ -1,3 +1,5 @@
+# New title for multiple stash example 
+
 # This is a new file 
 ## back in master branch 
 # deleted changes

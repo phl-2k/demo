@@ -13,3 +13,6 @@ On a new branch
 
 # rebasing from remote 
 ## added a couple of lines 
+
+# remote 
+## minor change done on remote

@@ -28,3 +28,6 @@ All rights are mine
 
 ## Auto merge 
 Change #1 
+
+# Merge Conflict 
+New Text Change #1 

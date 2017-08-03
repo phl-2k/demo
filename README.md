@@ -1,6 +1,8 @@
 # Title 
 Missed title for copyright 
 Second title line 
+All rights reserved - added after stash 
+
 ## added line for rebasing 
 
 ## changed lines in myfeature branch 

@@ -1,7 +1,10 @@
 Test Git Quick Start Demo
+## Copyright 
+All rights reserved  
 
 ## Change #1 
 Only modify 
 
 ## Change #2 
 On a new branch
+

@@ -4,6 +4,7 @@ Second title line
 ## added line for rebasing 
 
 ## changed lines in myfeature branch 
+Another change in myfeature branch 
 
 # Title Two 
 Added in master branch 

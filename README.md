@@ -37,3 +37,5 @@ Change #1
 
 # Merge Conflict 
 New Text Change #1 
+
+# Emergency fix after stash 

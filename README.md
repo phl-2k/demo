@@ -22,3 +22,6 @@ Only modify
 
 ## Copyright 
 All rights are mine 
+
+## Auto merge 
+Change #1 

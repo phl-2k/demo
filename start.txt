@@ -8,3 +8,5 @@ Only modify
 ## Change #2 
 On a new branch
 
+# Automatic Branching 
+## Change #1
